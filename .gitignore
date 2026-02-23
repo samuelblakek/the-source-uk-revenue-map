@@ -1,0 +1,5 @@
+# Raw source data (contains customer account details)
+data/SOPHIE ACCOUNTS BY TERRITORY.xlsx
+
+# OS files
+.DS_Store
