@@ -23,6 +23,10 @@ The interactive UK revenue map is finished and ready to share with the team.
 - 2 Gibraltar accounts included (map extends south to accommodate)
 - 0 accounts in "Unknown" region
 
+## Picking this up again
+
+To refresh the map with new data, drop a fresh Excel export into `data/` — the original is excluded from the repo for customer privacy. Everything else (docs, code, hosting) is self-contained and ready to go.
+
 ## Potential future enhancements
 
 - Refresh with updated data (re-run data pipeline with new Excel export)
