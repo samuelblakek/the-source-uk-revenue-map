@@ -56,3 +56,9 @@
 ### Bubble colours improved
 - Replaced dark/muddy red scale with vibrant gradient: orange → red → purple → indigo
 - Colours stay clean and distinct even on large bubbles
+
+### Deployment
+- Created public GitHub repo: samuelblakek/the-source-uk-revenue-map
+- Enabled GitHub Pages via `gh-pages` branch
+- Live at https://samuelblakek.github.io/the-source-uk-revenue-map/
+- Raw Excel file excluded from repo via `.gitignore` (contains customer data)

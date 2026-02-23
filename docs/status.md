@@ -6,6 +6,8 @@ The interactive UK revenue map is finished and ready to share with the team.
 
 **Deliverable:** `output/UK_Revenue_Map.html` — open in any browser.
 
+**Live URL:** https://samuelblakek.github.io/the-source-uk-revenue-map/
+
 ## What was delivered
 
 - 130 accounts plotted on an interactive UK map with revenue-proportional bubbles
